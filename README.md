@@ -1,6 +1,6 @@
-<p align="center">
-    <h1>GRIPHO</h1>
-</p>
+
+    <h1 align="center">GRIPHO</h1>
+
 
 Sobre o projeto
 =============
