@@ -1,3 +1,5 @@
+<p text-align="center">GRIPHO</p>
+
 Sobre o projeto
 =============
 
