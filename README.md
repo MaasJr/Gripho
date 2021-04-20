@@ -14,7 +14,7 @@ Tecnologias utilizadas
 - HTML
 - CSS
 - JS
-- REACTJS
+- ReactJS
 
 Frameworks utilizado
 -------------
