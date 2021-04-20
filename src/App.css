@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+}
+
+@media (max-width: 600px) {
+  .btn {
+    margin-top: 10px;
+  }
+}
+
+.gifs {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gif {
+  padding: 0 2px;
+}
+
+.loader {
+  color: #dc3545;
+}
+
+.logo {
+  width: auto;
+  height: 120px;
+  margin: auto;
+  
+}
+
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover {
+    z-index: 3;
+    color: #000;
+    background-color: #eee;
+    border-color: #dc3545;
+}
+
+.pagination > li > a {
+  color: #dc3545;
+}
+
+.page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
