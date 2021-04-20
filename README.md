@@ -1,5 +1,5 @@
 
-    <h1 align="center">GRIPHO</h1>
+   <h1 align="center">GRIPHO</h1>
 
 
 Sobre o projeto
