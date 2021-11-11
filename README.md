@@ -23,7 +23,7 @@ Frameworks utilizado
 Como usar o projeto
 -------------
     # Clonar repositório
-    git clone https://github.com/MaasJr/Gripho
+    git clone https://github.com/mariosjunior/Gripho
     
     # Instalar dependências
     npm install
